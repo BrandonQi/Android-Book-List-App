@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/checkout_order"
+        android:showAsAction="never"
+        android:title="@string/order" />
+
+    <item
+        android:id="@+id/checkout_cancle"
+        android:showAsAction="never"
+        android:title="@string/cancel" />
+
+</menu>

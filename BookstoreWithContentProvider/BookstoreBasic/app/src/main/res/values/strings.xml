@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="name">Bin Qi</string>
+    <string name="empty">EMPTY</string>
+
+    <string name="add">ADD</string>
+    <string name="order">ORDER</string>
+
+    <string name="checkout">CHECKOUT</string>
+    <string name="delete">DELETE</string>
+
+    <string name="search">SEARCH</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="view">VIEW</string>
+    <string name="setting">SETTINGS</string>
+
+</resources>
